@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FairEmail MVP</string>
+    <string name="title_setup">Setup</string>
+    <string name="title_list_accounts">Accounts</string>
+    <string name="title_list_folders">Folders</string>
+    <string name="title_list_messages">Messages</string>
+    <string name="title_compose">Compose</string>
+    <string name="title_view_message">Message</string>
+    
+    <!-- Account Setup -->
+    <string name="title_account_name">Account name</string>
+    <string name="title_email_address">Email address</string>
+    <string name="title_password">Password</string>
+    <string name="title_imap_server">IMAP server</string>
+    <string name="title_smtp_server">SMTP server</string>
+    
+    <!-- Actions -->
+    <string name="action_send">Send</string>
+    <string name="action_reply">Reply</string>
+    <string name="action_reply_all">Reply all</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_archive">Archive</string>
+    <string name="action_sync">Synchronize</string>
+    <string name="action_search">Search</string>
+    <string name="action_attach">Attach</string>
+    <string name="action_encrypt">Encrypt</string>
+    <string name="action_decrypt">Decrypt</string>
+    
+    <!-- Messages -->
+    <string name="msg_syncing">Synchronizing…</string>
+    <string name="msg_sent">Message sent</string>
+    <string name="msg_saved">Message saved</string>
+    <string name="msg_encrypted">Message encrypted</string>
+    <string name="msg_decrypted">Message decrypted</string>
+</resources>
